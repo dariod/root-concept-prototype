@@ -1,5 +1,5 @@
 #!/usr/bin/python
-CONFIG='./ls.cfg'
+CONFIG='./ls_virtual.cfg'
 
 import sys
 import os
